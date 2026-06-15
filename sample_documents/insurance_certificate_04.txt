@@ -1,0 +1,34 @@
+
++--------------------------------------+
+|     CERTIFICATE OF INSURANCE          |
+|     Commercial Auto Policy            |
++--------------------------------------+
+
+Insurance Company:    Progressive
+Policy Number:        POL-973-744-5886
+
+NAMED INSURED:
+Name:                 Stewart, Stanley and Becker
+DBA:                  Stewart, Stanley and Becker Trucking LLC
+Address:              2526 Angela Hill Suite 221, East Jenniferberg, NC 86329
+
+POLICY PERIOD:
+Effective Date:       04/03/2026
+Expiration Date:      11/11/2026
+
+COVERAGES:
+- Bodily Injury:        $1,000,000 per occurrence
+- Property Damage:      $500,000 per occurrence
+- Cargo Coverage:       $250,000
+- Combined Single Limit: $2,000,000
+
+VEHICLES COVERED:       14 vehicles
+DRIVERS COVERED:        7 drivers
+
+Certificate Holder:     Amazon Relay Transportation
+
++--------------------------------------+
+|  AUTHORIZED REPRESENTATIVE            |
+|  Signature: [SIGNED]                  |
+|  Date: 05/16/2026                       |
++--------------------------------------+

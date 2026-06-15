@@ -1,0 +1,34 @@
+
++--------------------------------------+
+|     CERTIFICATE OF INSURANCE          |
+|     Commercial Auto Policy            |
++--------------------------------------+
+
+Insurance Company:    State Farm
+Policy Number:        POL-917-832-3187
+
+NAMED INSURED:
+Name:                 Franklin, Ferguson and Hawkins
+DBA:                  Franklin, Ferguson and Hawkins Trucking LLC
+Address:              Unit 4939 Box 5793, DPO AE 06502
+
+POLICY PERIOD:
+Effective Date:       07/29/2025
+Expiration Date:      03/29/2027
+
+COVERAGES:
+- Bodily Injury:        $500,000 per occurrence
+- Property Damage:      $500,000 per occurrence
+- Cargo Coverage:       $100,000
+- Combined Single Limit: $2,000,000
+
+VEHICLES COVERED:       17 vehicles
+DRIVERS COVERED:        13 drivers
+
+Certificate Holder:     Amazon Relay Transportation
+
++--------------------------------------+
+|  AUTHORIZED REPRESENTATIVE            |
+|  Signature: [SIGNED]                  |
+|  Date: 06/04/2026                       |
++--------------------------------------+

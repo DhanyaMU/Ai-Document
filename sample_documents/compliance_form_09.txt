@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Neal-Shaw
+USDOT Number:         6134729
+MC Number:            MC-567084
+EIN:                  99-6793066
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Common
+Authority Status:     Active
+Interstate:           Yes
+Intrastate:           No
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    72
+Out-of-Service Rate:          34.4%
+Crash Rate (per million mi):  1.70
+Driver Fitness Violations:    13
+HOS Violations:               22
+Vehicle Maintenance Violations: 11
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Unsatisfactory
+Last Review Date:     01/03/2026
+Next Review Due:      04/04/2027
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Elizabeth Bright, Compliance Officer
+Date:   05/31/2026
+==========================================

@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      XFN-4467
+VIN:                  9D8MQ78W0HI835935
+
+VEHICLE INFORMATION:
+- Year:             2019
+- Make:             Volvo
+- Model:            VNL
+- Type:             Tractor
+- Color:            Red
+- GVWR:             26,001 lbs
+- Fuel Type:        CNG
+
+REGISTERED OWNER:
+Name:                 Campbell-Lewis Trucking Inc.
+Address:              USS Boyd, FPO AE 33701
+
+REGISTRATION PERIOD:
+Effective:            05/10/2026
+Expires:              12/25/2026
+
+Plate Number:         HUT-7703
+State:                Alaska
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

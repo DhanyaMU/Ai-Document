@@ -1,0 +1,34 @@
+
++--------------------------------------+
+|     CERTIFICATE OF INSURANCE          |
+|     Commercial Auto Policy            |
++--------------------------------------+
+
+Insurance Company:    GEICO
+Policy Number:        POL-934-517-3293
+
+NAMED INSURED:
+Name:                 Calderon, Hancock and Nicholson
+DBA:                  Calderon, Hancock and Nicholson Trucking LLC
+Address:              48864 Howard Mills Apt. 719, Lake Matthew, GU 73239
+
+POLICY PERIOD:
+Effective Date:       03/11/2026
+Expiration Date:      10/25/2026
+
+COVERAGES:
+- Bodily Injury:        $1,000,000 per occurrence
+- Property Damage:      $100,000 per occurrence
+- Cargo Coverage:       $250,000
+- Combined Single Limit: $5,000,000
+
+VEHICLES COVERED:       20 vehicles
+DRIVERS COVERED:        36 drivers
+
+Certificate Holder:     Amazon Relay Transportation
+
++--------------------------------------+
+|  AUTHORIZED REPRESENTATIVE            |
+|  Signature: [SIGNED]                  |
+|  Date: 05/22/2026                       |
++--------------------------------------+

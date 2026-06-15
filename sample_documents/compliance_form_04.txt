@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Newton-Clark
+USDOT Number:         5049211
+MC Number:            MC-280665
+EIN:                  54-3120548
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Freight Forwarder
+Authority Status:     Active - Conditional
+Interstate:           Yes
+Intrastate:           Yes
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    18
+Out-of-Service Rate:          17.7%
+Crash Rate (per million mi):  1.83
+Driver Fitness Violations:    15
+HOS Violations:               24
+Vehicle Maintenance Violations: 14
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Satisfactory
+Last Review Date:     02/20/2026
+Next Review Due:      05/25/2027
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Betty Browning, Compliance Officer
+Date:   06/03/2026
+==========================================

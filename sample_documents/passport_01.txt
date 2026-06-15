@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          TURNER
+Given Names:      JAMES
+Nationality:      Bahrain
+
+Passport No:      FU6436011
+Date of Birth:    31 Jan 1957
+Sex:              M
+Place of Birth:   Oliviatown, Wyoming
+
+Date of Issue:    27 Feb 2022
+Date of Expiry:   20 Mar 2033
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USATURNER<<JAMES<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

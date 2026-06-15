@@ -1,0 +1,34 @@
+
++--------------------------------------+
+|     CERTIFICATE OF INSURANCE          |
+|     Commercial Auto Policy            |
++--------------------------------------+
+
+Insurance Company:    GEICO
+Policy Number:        POL-485-437-9849
+
+NAMED INSURED:
+Name:                 Watson-Wilcox
+DBA:                  Watson-Wilcox Trucking LLC
+Address:              1889 Marquez Pine Apt. 815, Lake Anne, RI 90208
+
+POLICY PERIOD:
+Effective Date:       08/14/2025
+Expiration Date:      03/03/2027
+
+COVERAGES:
+- Bodily Injury:        $500,000 per occurrence
+- Property Damage:      $250,000 per occurrence
+- Cargo Coverage:       $250,000
+- Combined Single Limit: $2,000,000
+
+VEHICLES COVERED:       15 vehicles
+DRIVERS COVERED:        40 drivers
+
+Certificate Holder:     Amazon Relay Transportation
+
++--------------------------------------+
+|  AUTHORIZED REPRESENTATIVE            |
+|  Signature: [SIGNED]                  |
+|  Date: 05/30/2026                       |
++--------------------------------------+

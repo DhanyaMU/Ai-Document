@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      YQK-6330
+VIN:                  5W6GE11U1OF864447
+
+VEHICLE INFORMATION:
+- Year:             2021
+- Make:             Volvo
+- Model:            VNL
+- Type:             Tractor
+- Color:            Red
+- GVWR:             80,000 lbs
+- Fuel Type:        Diesel
+
+REGISTERED OWNER:
+Name:                 Turner LLC Trucking Inc.
+Address:              09341 Ferguson Drive, Smithville, AZ 26606
+
+REGISTRATION PERIOD:
+Effective:            12/04/2025
+Expires:              07/17/2026
+
+Plate Number:         YUH-0818
+State:                Ohio
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

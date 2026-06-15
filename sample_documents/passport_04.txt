@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          BOONE
+Given Names:      YVONNE
+Nationality:      Kiribati
+
+Passport No:      OS2028169
+Date of Birth:    14 Jul 1974
+Sex:              M
+Place of Birth:   Amychester, Alabama
+
+Date of Issue:    14 Jul 2022
+Date of Expiry:   19 Feb 2033
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USABOONE<<YVONNE<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

@@ -1,0 +1,34 @@
+
++--------------------------------------+
+|     CERTIFICATE OF INSURANCE          |
+|     Commercial Auto Policy            |
++--------------------------------------+
+
+Insurance Company:    Liberty Mutual
+Policy Number:        POL-814-967-9702
+
+NAMED INSURED:
+Name:                 Allen-Gonzalez
+DBA:                  Allen-Gonzalez Trucking LLC
+Address:              786 Scott Loop Apt. 473, East Davidton, MS 25278
+
+POLICY PERIOD:
+Effective Date:       05/03/2026
+Expiration Date:      01/21/2027
+
+COVERAGES:
+- Bodily Injury:        $500,000 per occurrence
+- Property Damage:      $250,000 per occurrence
+- Cargo Coverage:       $50,000
+- Combined Single Limit: $1,000,000
+
+VEHICLES COVERED:       24 vehicles
+DRIVERS COVERED:        27 drivers
+
+Certificate Holder:     Amazon Relay Transportation
+
++--------------------------------------+
+|  AUTHORIZED REPRESENTATIVE            |
+|  Signature: [SIGNED]                  |
+|  Date: 05/11/2026                       |
++--------------------------------------+

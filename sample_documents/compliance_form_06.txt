@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Moore, Bentley and Thomas
+USDOT Number:         3203808
+MC Number:            MC-737924
+EIN:                  84-9788684
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Common
+Authority Status:     Active
+Interstate:           Yes
+Intrastate:           Yes
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    76
+Out-of-Service Rate:          16.0%
+Crash Rate (per million mi):  2.77
+Driver Fitness Violations:    14
+HOS Violations:               11
+Vehicle Maintenance Violations: 12
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Conditional
+Last Review Date:     08/13/2025
+Next Review Due:      02/22/2027
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Mr. Robert Sparks, Compliance Officer
+Date:   05/29/2026
+==========================================

@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          JONES
+Given Names:      MICHAEL
+Nationality:      Gibraltar
+
+Passport No:      RO6433967
+Date of Birth:    24 Jan 1997
+Sex:              F
+Place of Birth:   South Ronald, New York
+
+Date of Issue:    02 Dec 2024
+Date of Expiry:   03 Feb 2030
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USAJONES<<MICHAEL<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

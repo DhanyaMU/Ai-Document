@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Miranda-Moran
+USDOT Number:         9679923
+MC Number:            MC-913772
+EIN:                  82-5585394
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Contract
+Authority Status:     Active - Conditional
+Interstate:           Yes
+Intrastate:           Yes
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    16
+Out-of-Service Rate:          27.3%
+Crash Rate (per million mi):  2.25
+Driver Fitness Violations:    3
+HOS Violations:               15
+Vehicle Maintenance Violations: 20
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Satisfactory
+Last Review Date:     07/31/2024
+Next Review Due:      11/03/2026
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Earl Burnett, Compliance Officer
+Date:   06/06/2026
+==========================================

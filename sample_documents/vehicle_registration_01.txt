@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      MYF-8328
+VIN:                  1M4WQ59Z5XN742263
+
+VEHICLE INFORMATION:
+- Year:             2023
+- Make:             Volvo
+- Model:            LT
+- Type:             Straight Truck
+- Color:            White
+- GVWR:             33,000 lbs
+- Fuel Type:        Electric
+
+REGISTERED OWNER:
+Name:                 Caldwell Ltd Trucking Inc.
+Address:              50483 Jacqueline Walk, Jaclynshire, WY 79523
+
+REGISTRATION PERIOD:
+Effective:            11/12/2025
+Expires:              06/27/2026
+
+Plate Number:         SGY-0542
+State:                Oregon
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

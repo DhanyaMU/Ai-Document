@@ -1,0 +1,34 @@
+
++--------------------------------------+
+|     CERTIFICATE OF INSURANCE          |
+|     Commercial Auto Policy            |
++--------------------------------------+
+
+Insurance Company:    GEICO
+Policy Number:        POL-581-517-5457
+
+NAMED INSURED:
+Name:                 Hood LLC
+DBA:                  Hood LLC Trucking LLC
+Address:              0727 Chen Prairie Suite 693, Mooretown, OK 25296
+
+POLICY PERIOD:
+Effective Date:       10/04/2025
+Expiration Date:      07/20/2026
+
+COVERAGES:
+- Bodily Injury:        $500,000 per occurrence
+- Property Damage:      $250,000 per occurrence
+- Cargo Coverage:       $50,000
+- Combined Single Limit: $5,000,000
+
+VEHICLES COVERED:       6 vehicles
+DRIVERS COVERED:        14 drivers
+
+Certificate Holder:     Amazon Relay Transportation
+
++--------------------------------------+
+|  AUTHORIZED REPRESENTATIVE            |
+|  Signature: [SIGNED]                  |
+|  Date: 05/11/2026                       |
++--------------------------------------+

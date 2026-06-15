@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          FLORES
+Given Names:      JASON
+Nationality:      Isle of Man
+
+Passport No:      CR2421265
+Date of Birth:    12 Jul 1988
+Sex:              F
+Place of Birth:   South Michael, Hawaii
+
+Date of Issue:    28 Dec 2018
+Date of Expiry:   21 Dec 2027
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USAFLORES<<JASON<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

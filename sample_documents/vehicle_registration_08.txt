@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      MAU-5527
+VIN:                  7M4XF53T6SU367202
+
+VEHICLE INFORMATION:
+- Year:             2022
+- Make:             Peterbilt
+- Model:            LT
+- Type:             Straight Truck
+- Color:            White
+- GVWR:             33,000 lbs
+- Fuel Type:        Electric
+
+REGISTERED OWNER:
+Name:                 Lynch, Bolton and Edwards Trucking Inc.
+Address:              594 Howard Hollow, New Holly, RI 39561
+
+REGISTRATION PERIOD:
+Effective:            06/04/2026
+Expires:              04/22/2027
+
+Plate Number:         BNV-6927
+State:                Mississippi
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

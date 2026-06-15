@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          TORRES
+Given Names:      AMANDA
+Nationality:      France
+
+Passport No:      UZ2183452
+Date of Birth:    02 Jul 1976
+Sex:              M
+Place of Birth:   Jeffbury, West Virginia
+
+Date of Issue:    26 May 2024
+Date of Expiry:   16 Sep 2030
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USATORRES<<AMANDA<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

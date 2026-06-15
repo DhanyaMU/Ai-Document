@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Pena-Carroll
+USDOT Number:         3518983
+MC Number:            MC-998970
+EIN:                  68-3932044
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Contract
+Authority Status:     Active - Conditional
+Interstate:           No
+Intrastate:           No
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    9
+Out-of-Service Rate:          10.1%
+Crash Rate (per million mi):  0.64
+Driver Fitness Violations:    0
+HOS Violations:               5
+Vehicle Maintenance Violations: 6
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Satisfactory
+Last Review Date:     10/30/2024
+Next Review Due:      01/08/2027
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Kim Mills, Compliance Officer
+Date:   05/15/2026
+==========================================

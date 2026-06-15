@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Hernandez-Kane
+USDOT Number:         7869240
+MC Number:            MC-142194
+EIN:                  83-4785660
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Freight Forwarder
+Authority Status:     Active - Conditional
+Interstate:           Yes
+Intrastate:           No
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    89
+Out-of-Service Rate:          8.4%
+Crash Rate (per million mi):  1.93
+Driver Fitness Violations:    3
+HOS Violations:               4
+Vehicle Maintenance Violations: 8
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Conditional
+Last Review Date:     10/23/2024
+Next Review Due:      01/15/2027
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Valerie Winters, Compliance Officer
+Date:   06/09/2026
+==========================================

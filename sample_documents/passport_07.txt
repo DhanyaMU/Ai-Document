@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          RODRIGUEZ
+Given Names:      PATRICK
+Nationality:      Canada
+
+Passport No:      WM5459791
+Date of Birth:    17 Feb 1974
+Sex:              F
+Place of Birth:   Karaborough, Maryland
+
+Date of Issue:    21 Feb 2024
+Date of Expiry:   09 Jul 2032
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USARODRIGUEZ<<PATRICK<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

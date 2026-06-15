@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      ZRA-6809
+VIN:                  2D7DY39I4DU065710
+
+VEHICLE INFORMATION:
+- Year:             2025
+- Make:             Freightliner
+- Model:            VNL
+- Type:             Semi-Trailer
+- Color:            Red
+- GVWR:             33,000 lbs
+- Fuel Type:        CNG
+
+REGISTERED OWNER:
+Name:                 Singleton-Gonzales Trucking Inc.
+Address:              PSC 0031, Box 1421, APO AE 96209
+
+REGISTRATION PERIOD:
+Effective:            06/11/2025
+Expires:              01/29/2027
+
+Plate Number:         GOU-3009
+State:                Oregon
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

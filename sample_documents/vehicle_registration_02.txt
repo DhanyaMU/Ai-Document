@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      VKC-8597
+VIN:                  5R2JJ40Y2XD435585
+
+VEHICLE INFORMATION:
+- Year:             2024
+- Make:             Freightliner
+- Model:            Cascadia
+- Type:             Tractor
+- Color:            Red
+- GVWR:             26,001 lbs
+- Fuel Type:        CNG
+
+REGISTERED OWNER:
+Name:                 Melton PLC Trucking Inc.
+Address:              1241 Brittany Ports, New Samantha, ID 29496
+
+REGISTRATION PERIOD:
+Effective:            12/07/2025
+Expires:              04/14/2027
+
+Plate Number:         KUX-5169
+State:                Louisiana
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          KELLY
+Given Names:      CARLA
+Nationality:      Bangladesh
+
+Passport No:      MO4035311
+Date of Birth:    19 Aug 1985
+Sex:              M
+Place of Birth:   Lake Sarahfort, Arkansas
+
+Date of Issue:    28 Feb 2020
+Date of Expiry:   16 Mar 2029
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USAKELLY<<CARLA<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

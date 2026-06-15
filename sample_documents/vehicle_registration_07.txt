@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      EOV-9527
+VIN:                  5X8YQ96L5DZ257008
+
+VEHICLE INFORMATION:
+- Year:             2025
+- Make:             Volvo
+- Model:            T680
+- Type:             Tractor
+- Color:            Blue
+- GVWR:             33,000 lbs
+- Fuel Type:        Electric
+
+REGISTERED OWNER:
+Name:                 Edwards-Moore Trucking Inc.
+Address:              48858 Stacy Shore, Amberstad, SD 53285
+
+REGISTRATION PERIOD:
+Effective:            03/04/2026
+Expires:              03/26/2027
+
+Plate Number:         KFD-3041
+State:                Indiana
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

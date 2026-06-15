@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      PHN-1736
+VIN:                  9X7PW85N4ST619118
+
+VEHICLE INFORMATION:
+- Year:             2023
+- Make:             Freightliner
+- Model:            579
+- Type:             Straight Truck
+- Color:            Silver
+- GVWR:             26,001 lbs
+- Fuel Type:        Diesel
+
+REGISTERED OWNER:
+Name:                 Evans-Pratt Trucking Inc.
+Address:              61817 Thompson Junction Suite 435, North Darin, MP 67799
+
+REGISTRATION PERIOD:
+Effective:            04/25/2026
+Expires:              12/01/2026
+
+Plate Number:         VKX-5886
+State:                North Dakota
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

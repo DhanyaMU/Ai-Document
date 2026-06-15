@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      PCX-4122
+VIN:                  9U2VP04I8CP301866
+
+VEHICLE INFORMATION:
+- Year:             2019
+- Make:             Volvo
+- Model:            Cascadia
+- Type:             Semi-Trailer
+- Color:            Silver
+- GVWR:             26,001 lbs
+- Fuel Type:        Diesel
+
+REGISTERED OWNER:
+Name:                 Harrison-Garza Trucking Inc.
+Address:              88900 Kurt Glen, Washingtonland, DC 98600
+
+REGISTRATION PERIOD:
+Effective:            04/26/2026
+Expires:              06/04/2027
+
+Plate Number:         LIK-7961
+State:                Kansas
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          HENDERSON
+Given Names:      JANET
+Nationality:      Mauritania
+
+Passport No:      MC7671908
+Date of Birth:    13 Jun 1987
+Sex:              M
+Place of Birth:   New William, Maine
+
+Date of Issue:    31 Oct 2024
+Date of Expiry:   28 Sep 2029
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USAHENDERSON<<JANET<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

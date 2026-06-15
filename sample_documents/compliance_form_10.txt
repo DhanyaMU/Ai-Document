@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Hampton PLC
+USDOT Number:         0689526
+MC Number:            MC-582465
+EIN:                  80-1116136
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Broker
+Authority Status:     Under Review
+Interstate:           No
+Intrastate:           No
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    29
+Out-of-Service Rate:          28.7%
+Crash Rate (per million mi):  1.66
+Driver Fitness Violations:    13
+HOS Violations:               14
+Vehicle Maintenance Violations: 0
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Unsatisfactory
+Last Review Date:     03/01/2025
+Next Review Due:      09/07/2026
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Michael Foster, Compliance Officer
+Date:   06/06/2026
+==========================================

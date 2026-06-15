@@ -1,0 +1,34 @@
+
++--------------------------------------+
+|     CERTIFICATE OF INSURANCE          |
+|     Commercial Auto Policy            |
++--------------------------------------+
+
+Insurance Company:    Allstate
+Policy Number:        POL-737-462-5115
+
+NAMED INSURED:
+Name:                 Santana Inc
+DBA:                  Santana Inc Trucking LLC
+Address:              865 Robinson Hollow, Palmerland, NE 62325
+
+POLICY PERIOD:
+Effective Date:       05/21/2026
+Expiration Date:      09/22/2026
+
+COVERAGES:
+- Bodily Injury:        $2,000,000 per occurrence
+- Property Damage:      $250,000 per occurrence
+- Cargo Coverage:       $50,000
+- Combined Single Limit: $2,000,000
+
+VEHICLES COVERED:       13 vehicles
+DRIVERS COVERED:        30 drivers
+
+Certificate Holder:     Amazon Relay Transportation
+
++--------------------------------------+
+|  AUTHORIZED REPRESENTATIVE            |
+|  Signature: [SIGNED]                  |
+|  Date: 06/08/2026                       |
++--------------------------------------+

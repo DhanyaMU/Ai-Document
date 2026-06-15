@@ -1,0 +1,32 @@
+
++--------------------------------------+
+|    DEPARTMENT OF MOTOR VEHICLES        |
+|    VEHICLE REGISTRATION CERTIFICATE    |
++--------------------------------------+
+
+Registration No:      LQE-6091
+VIN:                  0V5TR97Q7IO852843
+
+VEHICLE INFORMATION:
+- Year:             2020
+- Make:             Peterbilt
+- Model:            Cascadia
+- Type:             Straight Truck
+- Color:            White
+- GVWR:             33,000 lbs
+- Fuel Type:        Electric
+
+REGISTERED OWNER:
+Name:                 Coleman Inc Trucking Inc.
+Address:              44031 Christopher Gateway Apt. 316, Daviston, AZ 54133
+
+REGISTRATION PERIOD:
+Effective:            06/06/2026
+Expires:              07/25/2026
+
+Plate Number:         HPQ-9194
+State:                Minnesota
+
++--------------------------------------+
+|  VALID ONLY WITH CURRENT PLATES       |
++--------------------------------------+

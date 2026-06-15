@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Floyd, Foster and Hall
+USDOT Number:         8160301
+MC Number:            MC-064596
+EIN:                  91-4773395
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Common
+Authority Status:     Active - Conditional
+Interstate:           Yes
+Intrastate:           Yes
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    83
+Out-of-Service Rate:          12.7%
+Crash Rate (per million mi):  1.21
+Driver Fitness Violations:    13
+HOS Violations:               21
+Vehicle Maintenance Violations: 7
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Satisfactory
+Last Review Date:     10/12/2024
+Next Review Due:      10/01/2026
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Sarah Torres, Compliance Officer
+Date:   06/07/2026
+==========================================

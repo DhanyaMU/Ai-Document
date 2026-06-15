@@ -1,0 +1,25 @@
+
++--------------------------------------+
+|         UNITED STATES OF AMERICA      |
+|              PASSPORT                  |
++--------------------------------------+
+
+Surname:          PRICE
+Given Names:      VINCENT
+Nationality:      Azerbaijan
+
+Passport No:      BD1815759
+Date of Birth:    07 Nov 1978
+Sex:              F
+Place of Birth:   Heidiborough, Ohio
+
+Date of Issue:    29 Apr 2022
+Date of Expiry:   27 Dec 2032
+Issuing Authority: U.S. Department of State
+
+Machine Readable Zone:
+P<USAPRICE<<VINCENT<<<<<<<<<<<<<<<
+
++--------------------------------------+
+|  This document is government property |
++--------------------------------------+

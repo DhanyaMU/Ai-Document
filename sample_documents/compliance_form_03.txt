@@ -1,0 +1,41 @@
+
+==========================================
+FEDERAL MOTOR CARRIER SAFETY ADMINISTRATION
+CARRIER COMPLIANCE VERIFICATION FORM
+==========================================
+
+SECTION A: CARRIER INFORMATION
+-----------------------------------------
+Carrier Name:         Castro Inc
+USDOT Number:         3894385
+MC Number:            MC-039521
+EIN:                  68-3764189
+
+SECTION B: OPERATING AUTHORITY
+-----------------------------------------
+Authority Type:       Freight Forwarder
+Authority Status:     Active - Conditional
+Interstate:           No
+Intrastate:           No
+
+SECTION C: SAFETY RECORD
+-----------------------------------------
+Total Inspections (12 mo):    41
+Out-of-Service Rate:          14.1%
+Crash Rate (per million mi):  1.56
+Driver Fitness Violations:    11
+HOS Violations:               1
+Vehicle Maintenance Violations: 20
+
+SECTION D: COMPLIANCE STATUS
+-----------------------------------------
+Overall Rating:       Conditional
+Last Review Date:     06/02/2026
+Next Review Due:      03/01/2027
+
+CERTIFICATION: I certify that the information provided
+is true and accurate to the best of my knowledge.
+
+Signed: Matthew Robinson, Compliance Officer
+Date:   05/20/2026
+==========================================
